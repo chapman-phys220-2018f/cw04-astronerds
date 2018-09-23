@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.com/chapman-phys220-2018f/CHANGEME.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/CHANGEME)
+[![Build Status](https://travis-ci.com/chapman-phys220-2018f/cw04-astronerds.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/cw04-astronerds)
 
 # PHYS220/MATH220/CPSC220 CW 4
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Gabriella Nutt**
 
 ## Specification
 
@@ -39,4 +39,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Gabriella and Alley**
