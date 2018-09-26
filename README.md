@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 4
 
-**Author(s):** **Gabriella Nutt**
+**Author(s):** **Gabriella Nutt & Alley Busick**
 
 ## Specification
 
