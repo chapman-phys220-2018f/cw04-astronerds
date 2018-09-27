@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 ###
-# Name: Alley Busick
-# Student ID: 2293544
-# Email: busick@chapman.edu
+# Name: Alley Busick and Gabriella Nutt
+# Student ID: 2293544 and 2307512
+# Email: busick@chapman.edu and nutt@chapman.edu
 # Course: PYHS220/MATH220/CPSC220 Fall 2018
 # Assignment: CW 4
 ###
