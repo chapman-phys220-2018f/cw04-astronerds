@@ -26,7 +26,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
+This assignment made us want to die but we learned a lot in the process. A better understanding of how functions behave with one another and with command line arguments was gained. Math operators were used and so were "True" and "False" statements. Finally, loops and data structures were reviewed (from freshman python classes and java) and utilized. We are still a bit confused as to how to work with functions without input (generator function).
 
 **CHANGEME**
 
